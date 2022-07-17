@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Darker Pi (2)" GUID="{53857ef7-587b-4a1b-ab92-4735616040a5}" BaseGUID="{c47c7351-2d74-429d-9028-babc80b7aa8d}">
+  <Theme Name="One Darker Pi" GUID="{53857ef7-587b-4a1b-ab92-4735616040a5}" BaseGUID="{c47c7351-2d74-429d-9028-babc80b7aa8d}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
