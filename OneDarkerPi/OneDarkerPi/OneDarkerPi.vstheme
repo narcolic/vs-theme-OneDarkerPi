@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Darker Pi" GUID="{c47c7351-2d74-429d-9028-babc80b7aa8d}" BaseGUID="{8e6f317f-346a-44d3-bc66-4d2e909e8025}">
+  <Theme Name="One Darker Pi (1)" GUID="{fb8eb4c0-bd44-48fa-aeec-c1ff2654f4aa}" BaseGUID="{c47c7351-2d74-429d-9028-babc80b7aa8d}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -8444,11 +8444,11 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF3F51B5" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FFC9DEF5" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF374255" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ButtonDisabled">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -8458,8 +8458,8 @@
         <Background Type="CT_RAW" Source="FFC7C9D8" />
       </Color>
       <Color Name="Button">
-        <Background Type="CT_RAW" Source="FFECECF0" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF282E38" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ButtonPressedBorder">
         <Background Type="CT_RAW" Source="FF1C97EA" />
