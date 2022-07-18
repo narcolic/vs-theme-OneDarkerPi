@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Darker Pi" GUID="{53857ef7-587b-4a1b-ab92-4735616040a5}" BaseGUID="{c47c7351-2d74-429d-9028-babc80b7aa8d}">
+  <Theme Name="One Darker Pi" GUID="{d3ece2e8-90ea-4182-bf0d-0e8e7d16564c}" BaseGUID="{53857ef7-587b-4a1b-ab92-4735616040a5}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1028,7 +1028,7 @@
         <Background Type="CT_RAW" Source="FF939393" />
       </Color>
       <Color Name="Popup">
-        <Background Type="CT_RAW" Source="FFFCFCFC" />
+        <Background Type="CT_RAW" Source="FF24272F" />
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="PopupBorder">
