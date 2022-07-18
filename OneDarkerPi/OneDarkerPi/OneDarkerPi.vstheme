@@ -8417,11 +8417,11 @@
         <Background Type="CT_RAW" Source="FF717171" />
       </Color>
       <Color Name="TextBox">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF161A21" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FFDBDDE6" />
+        <Background Type="CT_RAW" Source="FF53627C" />
       </Color>
       <Color Name="RequiredTextBoxBorder">
         <Background Type="CT_RAW" Source="FFDBDDE6" />
@@ -8434,7 +8434,7 @@
         <Background Type="CT_RAW" Source="FF0E70C0" />
       </Color>
       <Color Name="TextBoxHintText">
-        <Background Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FFCCCEDB" />
       </Color>
       <Color Name="ButtonDisabledBorder">
         <Background Type="CT_RAW" Source="FFCCCEDB" />
@@ -8451,11 +8451,11 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ButtonDisabled">
-        <Background Type="CT_RAW" Source="FFF5F5F5" />
-        <Foreground Type="CT_RAW" Source="FFA2A4A5" />
+        <Background Type="CT_RAW" Source="FF53627C" />
+        <Foreground Type="CT_RAW" Source="FFCCCEDB" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FFC7C9D8" />
+        <Background Type="CT_RAW" Source="FF53627C" />
       </Color>
       <Color Name="Button">
         <Background Type="CT_RAW" Source="FF282E38" />
