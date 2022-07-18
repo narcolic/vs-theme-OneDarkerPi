@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Darker Pi" GUID="{3e636151-7588-4f54-b615-19579c604a49}" BaseGUID="{53857ef7-587b-4a1b-ab92-4735616040a5}">
+  <Theme Name="One Darker Pi" GUID="{ae7bc458-1f10-485a-bd42-3914d3f7c34e}" BaseGUID="{53857ef7-587b-4a1b-ab92-4735616040a5}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -2479,7 +2479,7 @@
       </Color>
       <Color Name="JSON Property Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA000" />
+        <Foreground Type="CT_RAW" Source="FFA897F1" />
       </Color>
       <Color Name="LessCssVariableDeclarationClassificationFormat">
         <Background Type="CT_INVALID" Source="00000000" />
